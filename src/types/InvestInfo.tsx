@@ -29,7 +29,7 @@ export interface Earnings {
     earningAmount: number,
 }
 
-interface Fundings{
+export interface Fundings{
     downPayment: number,
     askedPrice: number,
     mortgage: number,
